@@ -31,10 +31,10 @@ Each level becomes harder as the pattern gets longer. 🧠⚡
 ---
 
 ## 📂 Project Structure
-📦 simon-says-game
-├── index.html
-├── style.css
-└── script.js
+📦 simon-says-game<br>
+├── index.html<br>
+├── style.css<br>
+└── script.js<br>
 
 ---
 
