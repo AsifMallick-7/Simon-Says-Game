@@ -39,9 +39,9 @@ Each level becomes harder as the pattern gets longer. 🧠⚡
 ---
 
 ## 📥 Installation & Run
-Clone this repository:
-git clone https://github.com/AsifMallick-7/Simon-Says-Game
-Open index.html in your browser.
-Start playing!
+Clone this repository:<br>
+git clone https://github.com/AsifMallick-7/Simon-Says-Game<br>
+Open index.html in your browser.<br>
+Start playing!<br>
 
 ---
