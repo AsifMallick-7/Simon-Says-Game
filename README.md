@@ -43,5 +43,6 @@ Clone this repository:<br>
 git clone https://github.com/AsifMallick-7/Simon-Says-Game<br>
 Open index.html in your browser.<br>
 Start playing!<br>
+Or live demo - https://simon-game-by-asif.netlify.app/ <br>
 
 ---
